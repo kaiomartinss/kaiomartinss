@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Hi! 👋 I am a student in Internet Systems, passionate about Web Development and Digital Technologies.</p>
+<h4 align="left">- Hi! 👋 I am a student in Internet Systems, passionate about Web Development and Digital Technologies.</h4>
 
 ###
 
@@ -35,10 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kaiomartinss/kaiomartinss/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
@@ -58,10 +54,6 @@
 ###
 
 <p align="left"></p>
-
-###
-
-
 
 ###
 
