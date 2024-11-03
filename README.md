@@ -35,11 +35,11 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="center">Social Media</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kaiomartinss03/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -54,13 +54,5 @@
 ###
 
 <p align="left"></p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ouyapj389qn5j6yv3d6d10n0n">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ouyapj389qn5j6yv3d6d10n0n&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
