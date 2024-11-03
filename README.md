@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Hi! 👋 I am a student in Internet Systems, passionate about web development and digital technologies.</p>
+<p align="left">- Hi! 👋 I am a student in Internet Systems, passionate about Web Development and Digital Technologies.</p>
 
 ###
 
