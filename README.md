@@ -2,7 +2,14 @@
 
 ###
 
-<h4 align="left">- Hi! 👋 I am a student in Internet Systems, passionate about Web Development and Digital Technologies.</h4>
+<h4 align="left">- Hi! my name is Kaio Martins. I’m a 21-year-old Front-End Developer with a lifelong passion for technology and games. I am looking for an opportunity where I can apply my skills, grow professionally, and be part of a place where I can challenge myself and exceed expectations.
+
+- I am quick to learn new things and have a strong inclination for hands-on learning. I enjoy challenges that push me out of my comfort zone, helping me refine my skills and gain new knowledge. I am curious and proactive; whenever I have questions, I don’t hesitate to ask, and I actively explore innovations and new ideas that can enhance my work and contribute to the team.
+
+- Though I’m still at the beginning of my journey in the field, I am committed to showcasing what I’ve learned so far and eager to grow alongside experienced professionals who can guide and inspire me. I believe I can add value through my willingness to learn and the dedication I bring to each project.
+
+Sincerely,
+Kaio Martins.</h4>
 
 ###
 
